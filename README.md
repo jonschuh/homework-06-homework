@@ -1,13 +1,5 @@
 # Challenge 6: Weather Dashboard
 
-A website that will display the current and future weather conditions for a city of the users choice.
-
-
-The deployed webpage can be viewed at: https://dcharney.github.io/weather-dashboard/ 
-
-
-This project was built by Delaney Charney for Challenge Assignment No.6 of the UCF Coding Bootcamp. The requirements for the assignment are detailed below.
-
 ---
 
 ## User Story
